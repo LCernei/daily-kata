@@ -8,9 +8,5 @@ namespace DailyKata.Katas.Employees
 {
     class Junior : Employee
     {
-        public override double GetSalary()
-        {
-            return GetBaseSalary();
-        }
     }
 }

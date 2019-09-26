@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace DailyKata.Katas.Employees
 {
-    public abstract class Employee
+    public class Employee
     {
-        public abstract double GetSalary();
-
-        protected double GetBaseSalary()
+        public virtual double GetSalary()
         {
             return 100;
         }

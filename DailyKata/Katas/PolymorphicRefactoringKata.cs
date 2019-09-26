@@ -16,13 +16,4 @@ namespace DailyKata.Katas
             return _employee.GetSalary();
         }
     }
-
-    public enum JobTitle
-    {
-        Unknown = 0,
-        Junior,
-        Middle,
-        Senior,
-        Consultant
-    }
 }

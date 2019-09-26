@@ -10,7 +10,7 @@ namespace DailyKata.Katas.Employees
     {
         public override double GetSalary()
         {
-            return GetBaseSalary() + 75 + 20;
+            return base.GetSalary() + 75 + 20;
         }
     }
 }
