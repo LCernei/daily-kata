@@ -66,6 +66,7 @@
     <Compile Include="HaystackNeedleKataTests.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringCalculatorKataTests.cs" />
+    <Compile Include="PolymorphicRefactoringKataTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />

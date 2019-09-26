@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Katas\HaystackNeedleKata.cs" />
     <Compile Include="Katas\StringCalculatorKata.cs" />
+    <Compile Include="Katas\PolymorphicRefactoringKata.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
